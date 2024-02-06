@@ -1,3 +1,6 @@
+# angry.p, workaround empty debug
+%define _empty_manifest_terminate_build 0
+
 Name:           cinfo
 Version:        0.5.5
 Release:        1
