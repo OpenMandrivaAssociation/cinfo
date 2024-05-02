@@ -2,7 +2,7 @@
 %define _empty_manifest_terminate_build 0
 
 Name:           cinfo
-Version:        0.5.7
+Version:        0.5.8
 Release:        1
 Summary:        Fast and minimal system information tool
 Group:          Tools/Monitoring
